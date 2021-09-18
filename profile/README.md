@@ -4,6 +4,6 @@ FOTA4Climate to inicjatywa społeczna zrzeszająca ludzi nauki, kultury, mediów
 
 Chcemy konstruować rozwiązania społeczne, ekonomiczne i polityczne odpowiadające potrzebom czasu antropocenu, w oparciu o najlepszą dostępną wiedzę naukową, technologiczny agnostycyzm i wartości humanizmu.
 
-https://fota4climate.org/
-https://twitter.com/fota4climate/
-https://facebook.com/fota4climate/
+- https://fota4climate.org/
+- https://twitter.com/fota4climate/
+- https://facebook.com/fota4climate/
