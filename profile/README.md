@@ -7,3 +7,6 @@ Chcemy konstruować rozwiązania społeczne, ekonomiczne i polityczne odpowiadaj
 - https://fota4climate.org/
 - https://twitter.com/fota4climate/
 - https://facebook.com/fota4climate/
+- https://www.youtube.com/fota4climate
+- https://www.instagram.com/fota4climate/
+- https://www.replanet.ngo/
